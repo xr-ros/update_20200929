@@ -63,4 +63,6 @@ fi
 
 echo "install success"
 
-
+echo "clear install file"
+cd ~/Desktop
+rm -rf ~/Desktop/releas_20200929
